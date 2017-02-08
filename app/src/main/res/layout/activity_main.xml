@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.demo.videodemo.videodemo.MainActivity"
+    android:background="#ffffff">
+
+    <com.demo.videodemo.videodemo.heart.PeriscopeLayout
+        android:id="@+id/ll_heart"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"/>
+
+    <Button
+        android:id="@+id/ll_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/ll_heart"
+        android:text="点赞"/>
+</RelativeLayout>

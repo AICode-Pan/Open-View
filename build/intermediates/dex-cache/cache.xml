@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_c9f25c6c5cd2d2384e25f4c3bba7ce96a059cfe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ac611aded443a1bb95331917155fca399b3b7422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_2153035f7a90f86f88930ad48928c06f8f086aa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-exo/0.7.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7bea4a055a8b9133e993dd85a6d60b8ea85aadbc">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/tv.danmaku.ijk.media-ijkplayer-exo-0.7.2_22ce0628e4d3b2bd11553aef81bf76e5f617fbf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r1.5.11_611f2ee253fe718340a8e3b2e8f10f94d6d053b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_451cae30e9c2af4635c3d143ae5c6bd43a58f64a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4985f03610dfd4703be276d9e67aad8a612a177e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_310b57b26ad6c2b405c0f8d2c7288291715309ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_46a9475bd2b680264476f1e9baa80ea7b3d1f617/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d8f34e79316c5d0afada3b85642ed5af6b2f7a0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ccadaaa6980f9f059e7efaaf7ac305c1ff7f7366">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f02e3148235bbf52d92c52728ddd0ab7a4a2d84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_652bbcd68572226a1a0d8bf5589719516a220790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Downloads/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_a43dfcf722edc4980a77e6bb7b2f1dbdc4c9f9ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_6868962860df5964752251e8e57b1869de904ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_48276dc0de518feaeb5fb9a7d1964852e4d9b9b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_e0d69b802e1ecedfe08b9dd4a9474e2a8a053c8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-armv7a/0.7.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e15762fc557f3845f599d8e7c29416a7e80bea1">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/tv.danmaku.ijk.media-ijkplayer-armv7a-0.7.2_f7870b36401a66e616b9a7929758ea19e6bc32e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_eb58963cb75498199fb3dd351463a4bf27cc66c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-java/0.7.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8633928a2aaa79e74ccca435e3d4eee6989b4fc5">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/tv.danmaku.ijk.media-ijkplayer-java-0.7.2_e1d7d27acd24910ce1b394961c6ce57c9f04ff0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c9244fac48c8ea664d6defca7a504a07dc1f055">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_994305ef2c3b0e74c18bfaa2c4300d71b9e8763d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_dd5eedd335e91634df287538a69e1e672618057c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/pan/Documents/Projects/VideoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_68562ba07a494119e7d91015de8aa45ce4938d75/classes.dex" />
+    </item>
+
+</items>
