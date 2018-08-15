@@ -1,4 +1,4 @@
-package com.demo.videodemo.videodemo;
+package com.demo.praise;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.demo.videodemo.videodemo;
+package com.demo.praise;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.demo.videodemo.videodemo", appContext.getPackageName());
+        assertEquals("com.demo.videodemo", appContext.getPackageName());
     }
 }

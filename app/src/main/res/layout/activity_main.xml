@@ -4,7 +4,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.demo.videodemo.videodemo.MainActivity"
+    tools:context="com.demo.praise.MainActivity"
     android:background="#ffffff">
 
     <Button
@@ -16,7 +16,7 @@
         android:layout_marginBottom="20dp"
         android:text="点赞"/>
 
-    <com.demo.videodemo.videodemo.PeriscopeLayout
+    <com.demo.videodemoPeriscopeLayout
         android:id="@+id/ll_heart"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
