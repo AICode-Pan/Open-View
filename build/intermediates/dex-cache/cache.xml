@@ -3,33 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/Users/panbeixing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8994f0dc9dfdb68cfd3304cfa658f1d6d5b4e6b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-exo/0.7.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7bea4a055a8b9133e993dd85a6d60b8ea85aadbc">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/tv.danmaku.ijk.media-ijkplayer-exo-0.7.2_0379df8f71e62102605eb59325f6c6ac25cd9921.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0a919fdfb7808ff27b33e6e84ec990478abc9cf1">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.google.android.exoplayer-exoplayer-r1.5.11_aa0fb9697134dc310887b9729562ebd9197898f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
@@ -39,30 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_124afe4ac2efcab8a2fd8b2e28fb9403168b37e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
         <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c8a9feb633b0fc1f52fb9339a5fd1a4caf747a0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_211e4aba16bc051330f604ad8931b1be73564a70.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,6 +84,42 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_ad2c665a267e00129f1a29a72220d2a7a3f4f2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panbeixing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8994f0dc9dfdb68cfd3304cfa658f1d6d5b4e6b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_124afe4ac2efcab8a2fd8b2e28fb9403168b37e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_211e4aba16bc051330f604ad8931b1be73564a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
@@ -144,33 +135,6 @@
         revision="24.0.1"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_a9bc8529b2103c7de7b367ccc05af32e276c5764.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-armv7a/0.7.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7e15762fc557f3845f599d8e7c29416a7e80bea1">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/tv.danmaku.ijk.media-ijkplayer-armv7a-0.7.2_35ad790d9c7f7a6927b237d0b5c7db80ab173ca9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_ad2c665a267e00129f1a29a72220d2a7a3f4f2a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-java/0.7.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8633928a2aaa79e74ccca435e3d4eee6989b4fc5">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/tv.danmaku.ijk.media-ijkplayer-java-0.7.2_1094a55b96891b73832ec4300c44b1afe3d562de.jar" />
     </item>
     <item
         is-multidex="false"

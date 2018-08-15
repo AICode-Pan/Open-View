@@ -8,11 +8,6 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="ZhiPing.Widget.ProgressBar" parent="@android:style/Widget.ProgressBar">
-        <item name="android:indeterminateDrawable">@drawable/uvv_progress_rotate</item>
-        <item name="android:indeterminateDuration">1000</item>
-    </style>
-
     <!--飘心-->
     <declare-styleable name="HeartLayout">
         <attr name="initX" format="dimension"/>

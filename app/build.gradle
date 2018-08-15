@@ -32,8 +32,5 @@ dependencies {
     })
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.android.support:recyclerview-v7:24.0.0'
-    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.7.2'
-    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.7.2'
-    compile 'tv.danmaku.ijk.media:ijkplayer-exo:0.7.2'
     testCompile 'junit:junit:4.12'
 }
