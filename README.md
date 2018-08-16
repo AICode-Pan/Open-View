@@ -3,4 +3,4 @@
 优化防止多次点击导致ImageView增加，影响内存占用。
 <br/>
 <br/>
-<img src="./screen.png" align="center" width="100%" />
+<img src="./screen.png" align="center" width="30%" />
