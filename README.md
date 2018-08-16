@@ -4,3 +4,4 @@
 <br/>
 <br/>
 <img src="./screen.png" align="center" width="30%" />
+<img src="./Screenrecording_20180816_100049.gif" align="center" width="30%" />
