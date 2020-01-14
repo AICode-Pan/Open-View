@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.demo.praise.MainActivity"
     android:background="#ffffff">
 
-    <Button
-        android:id="@+id/ll_btn"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:background="@drawable/ytm_icon_like_png"/>
-
-    <com.demo.praise.PeriscopeLayout
-        android:id="@+id/ll_heart"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="15dp">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Periscope"
+            android:onClick="onPeriscopeClick"/>
 
-</RelativeLayout>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Fuzzy"
+            android:onClick="onFuzzyClick"/>
+    </LinearLayout>
+
+</ScrollView>

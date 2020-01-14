@@ -1,19 +1,22 @@
-package com.demo.praise;
+package com.demo.custom.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {
-    private final String TAG = MainActivity.class.getName();
+import com.demo.custom.view.PeriscopeLayout;
+import com.demo.custom.R;
+
+public class PeriscopeActivity extends AppCompatActivity {
     private PeriscopeLayout ll_heart;
     private Button ll_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setTitle("PeriscopeActivity");
+        setContentView(R.layout.activity_periscope);
         ll_heart = (PeriscopeLayout) findViewById(R.id.ll_heart);
         ll_btn = (Button) findViewById(R.id.ll_btn);
 
@@ -23,10 +26,5 @@ public class MainActivity extends AppCompatActivity {
                 ll_heart.addHeart();
             }
         });
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
     }
 }

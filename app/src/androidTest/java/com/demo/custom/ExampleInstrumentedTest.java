@@ -1,4 +1,4 @@
-package com.demo.praise;
+package com.demo.custom;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

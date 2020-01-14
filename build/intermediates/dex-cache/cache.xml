@@ -3,147 +3,147 @@
 
     <item
         is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6d145a8519a9445583d1c2ff2feae6b2e4c6a94b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c8a9feb633b0fc1f52fb9339a5fd1a4caf747a0f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_931aeb096018190e9dac833305aba28c0ddf553e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5fe5b891fdc660bebdd6f4cc13500772e902aec2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d326fa4297096fcbf46a98cd0c7b73e99cd2e027.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_fba2ebb56a1e44b9f9b899fab8c3506d9958cb94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d187046e8f50ced684b6b6cd7b26dbcb7c4a1cac.jar" />
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_899ea33da5aea04c7a189b8a7416dfe225e6f0c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cd496d31cc2caa10ae9541579898724b2829ede9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_ad6769be82c9ae9197198bae6b26f9b622b27bea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_ad2c665a267e00129f1a29a72220d2a7a3f4f2a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8994f0dc9dfdb68cfd3304cfa658f1d6d5b4e6b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_124afe4ac2efcab8a2fd8b2e28fb9403168b37e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_211e4aba16bc051330f604ad8931b1be73564a70.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_22753e7c4ab49a1e75b72e6ed89d4706079a96b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_a9bc8529b2103c7de7b367ccc05af32e276c5764.jar" />
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_469c0c200e224cf5f8505d52fad6d4b4bcfb4ea1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4ccb109bfecbc80f1817494c14008c844a95986f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_cdc8f0e9692d118384d8fd9e35b1a2fdc7e5b3b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3ceaf90229fdfe45e0c75a5bd4895b39e29d9d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/panbeixing/Documents/Project/Custom-Praise/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_c689b7190d5c5e4555e4fa3fa785b0ae53a1bb24.jar" />
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8337f87e52f5577c84596ed03281fddd6b9bfcd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2df73d267cdffc1e538a0cbd03f3e34d0396c2ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.2.1/8de3aafecbdf98a61db6427f008f2d515bcd2544/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_77af7d6b83a92cddd933742c7892d8983e682989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_962b542d4c1e6bb2b2869aae382e468a9627dcf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_309c55aa1cdb0195236b27d949197822d41bfe4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_33f16bddd17d54d4e95f152e23281c494bdf48c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_c40b48ed78b266575a943b8d09596276276ba424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c0ea5e42164f2afe33a9fd832849a6e1fe6e556b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_537f10ccdbd980a1021843b3672e01a84f4b0c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.0.0_912d9e9428bbe1bcf978c82298d4ed8bee9e7fff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/a123/Documents/Project/CustomPraise/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_700c2fffa6796184a501e8006e5841c8b6863f8e.jar" />
     </item>
 
 </items>

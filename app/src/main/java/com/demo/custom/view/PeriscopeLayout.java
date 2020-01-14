@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.demo.praise;
+package com.demo.custom.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -36,6 +36,8 @@ import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+
+import com.demo.custom.R;
 
 import java.util.ArrayList;
 import java.util.List;

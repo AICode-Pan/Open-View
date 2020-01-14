@@ -1,4 +1,4 @@
-package com.demo.praise;
+package com.demo.custom;
 
 import org.junit.Test;
 
