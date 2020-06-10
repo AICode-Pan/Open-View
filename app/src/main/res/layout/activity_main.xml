@@ -11,17 +11,24 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="15dp">
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:text="Periscope"
-            android:onClick="onPeriscopeClick"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:text="Fuzzy"
-            android:onClick="onFuzzyClick"/>
+            android:onClick="onPeriscopeClick"
+            android:text="点赞动画" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:onClick="onFuzzyClick"
+            android:text="模糊" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:onClick="onIndicator"
+            android:text="指示器" />
     </LinearLayout>
 
 </ScrollView>

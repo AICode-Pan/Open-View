@@ -4,8 +4,9 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.demo.custom.MainActivity"
-    android:background="#ffffff">
+    tools:context="com.ai.code.customview.MainActivity"
+    android:background="#ffffff"
+    android:paddingBottom="@dimen/dp_20">
 
     <Button
         android:id="@+id/ll_btn"
@@ -15,7 +16,7 @@
         android:layout_centerHorizontal="true"
         android:background="@drawable/ytm_icon_like_png"/>
 
-    <com.demo.custom.view.PeriscopeLayout
+    <com.ai.code.customview.view.PeriscopeLayout
         android:id="@+id/ll_heart"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
