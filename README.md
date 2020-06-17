@@ -1,8 +1,11 @@
 ## 简介
+    自己写的View控件，记录一下。有需要的朋友可以自取。
+####  PersicopeLayout
 直播点赞动画，通过贝塞尔曲线画出悬浮路径<br/>
-优化防止多次点击导致ImageView增加，影响内存占用。
 <br/>
-<br/>
-<img src="https://aicode-pan.oss-cn-beijing.aliyuncs.com/Screenrecording_20180816_100049.gif?Expires=1592104747&OSSAccessKeyId=TMP.3KkA3dfp43rCKSmNcdg39XePEiM6M3ZkHjTxMU4BhCMueton8oFXr4BPa4yVR2mbYxJam7d4g5piiw826hhZUMTpuJfutj&Signature=%2BPYyvn%2BlNy2VCuTqF9m34qodmYA%3D" align="center" width="30%" />
+<img src="http://aicode-pan.oss-cn-beijing.aliyuncs.com/image/8498e514ae77b52191b171c193916950.gif?Expires=1592372471&OSSAccessKeyId=TMP.3KfioAFunDL4NpDbM1raNBLd9o1bYUgVf4ZgfYGUWm43GvF5k6koV7qCkLA2fsnJdocwztU1FiGuVaFyTBhkDVF5Qj5XGH&Signature=LtyONlzZ1Yu695HD4eoDpY7YoEY%3D" align="center" width="30%" />
 
-<video src="https://aicode-pan.oss-cn-beijing.aliyuncs.com/video/8498e514ae77b52191b171c193916950.mp4?Expires=1592364906&OSSAccessKeyId=TMP.3KfioAFunDL4NpDbM1raNBLd9o1bYUgVf4ZgfYGUWm43GvF5k6koV7qCkLA2fsnJdocwztU1FiGuVaFyTBhkDVF5Qj5XGH&Signature=zb8NbbcKfVUXwlaBwKU%2FmmmKejE%3D" controls="controls"></video>
+#### IndicatorView
+指示器，用于画廊，导览，开屏广告，viewpager
+<br/>
+<img src="http://aicode-pan.oss-cn-beijing.aliyuncs.com/image/19367b44317f7fd34ac84b440d371955.gif?Expires=1592372452&OSSAccessKeyId=TMP.3KfioAFunDL4NpDbM1raNBLd9o1bYUgVf4ZgfYGUWm43GvF5k6koV7qCkLA2fsnJdocwztU1FiGuVaFyTBhkDVF5Qj5XGH&Signature=lljutK2zqAUOpAPx9A0pqdiMANM%3D" align="center" width="30%" />
