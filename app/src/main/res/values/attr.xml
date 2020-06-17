@@ -14,7 +14,7 @@
         <attr name="anim_duration" format="integer"/>
     </declare-styleable>
 
-    <declare-styleable name="IndicatorActivity">
+    <declare-styleable name="IndicatorView">
         <attr name="indicatorRadius" format="dimension" />
         <attr name="indicatorSpace" format="dimension" />
         <attr name="indicatorSelectWidth" format="dimension" />

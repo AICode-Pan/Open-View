@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.ai.code.customview.activity.FuzzyActivity;
+import com.ai.code.customview.activity.IndicatorActivity;
 import com.ai.code.customview.activity.PeriscopeActivity;
 
 public class MainActivity extends Activity {
@@ -35,6 +36,8 @@ public class MainActivity extends Activity {
     }
 
     public void onIndicator(View view) {
-
+        Intent intent = new Intent();
+        intent.setClass(this, IndicatorActivity.class);
+        startActivity(intent);
     }
 }

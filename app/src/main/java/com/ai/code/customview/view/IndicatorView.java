@@ -11,7 +11,6 @@ import android.view.View;
 
 import com.ai.code.customview.R;
 
-
 /**
  * 指示器
  */
