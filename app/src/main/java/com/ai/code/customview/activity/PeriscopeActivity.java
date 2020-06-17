@@ -17,8 +17,8 @@ public class PeriscopeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setTitle("点赞动画");
         setContentView(R.layout.activity_periscope);
-        ll_heart = (PeriscopeLayout) findViewById(R.id.ll_heart);
-        ll_btn = (Button) findViewById(R.id.ll_btn);
+        ll_heart = findViewById(R.id.ll_heart);
+        ll_btn = findViewById(R.id.ll_btn);
 
         ll_btn.setOnClickListener(new View.OnClickListener() {
             @Override
