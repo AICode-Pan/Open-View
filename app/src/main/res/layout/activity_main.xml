@@ -29,6 +29,12 @@
             android:layout_height="50dp"
             android:onClick="onIndicator"
             android:text="指示器" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:onClick="onSlideSelectClick"
+            android:text="滑动选择器" />
     </LinearLayout>
 
 </ScrollView>

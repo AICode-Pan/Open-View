@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ai.code.customview.view.SlideSelectView
+        android:id="@+id/slideview1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:bigCircleColor="@color/color_eb535e"
+        app:bigCircleRadius="@dimen/dp_10"
+        app:bigCenterColor="@color/white"
+        app:bigCenterRadius="@dimen/dp_8"
+        app:circleCount="4"
+        app:lineColor="@color/color_d8d8d8"
+        app:lineStrokeWidth="@dimen/dp_2"
+        app:textColor="@color/color_717171"
+        app:textSelectColor="@color/color_eb535e"
+        app:textTopMargin="@dimen/dp_8"
+        app:textSize="@dimen/dp_16" />
+
+    <com.ai.code.customview.view.SlideSelectView
+        android:id="@+id/slideview2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/black"
+        app:bigCircleColor="@color/colorPrimaryDark"
+        app:bigCircleRadius="@dimen/dp_10"
+        app:bigCenterColor="@color/colorPrimaryDark"
+        app:bigCenterRadius="@dimen/dp_8"
+        app:circleCount="4"
+        app:lineColor="@color/white"
+        app:lineStrokeWidth="@dimen/dp_2"
+        app:textColor="@color/white"
+        app:textSelectColor="@color/colorAccent"
+        app:textTopMargin="@dimen/dp_8"
+        app:textSize="@dimen/dp_16" />
+
+    <com.ai.code.customview.view.SlideSelectView
+        android:id="@+id/slideview3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:bigCircleColor="@color/color_eb535e"
+        app:bigCircleRadius="@dimen/dp_10"
+        app:bigCenterColor="@color/color_eb535e"
+        app:bigCenterRadius="@dimen/dp_8"
+        app:circleCount="5"
+        app:lineColor="@color/color_d8d8d8"
+        app:lineStrokeWidth="@dimen/dp_2"
+        app:textColor="@color/color_717171"
+        app:textSelectColor="@color/color_eb535e"
+        app:textTopMargin="@dimen/dp_8"
+        app:textSize="@dimen/dp_16" />
+</LinearLayout>

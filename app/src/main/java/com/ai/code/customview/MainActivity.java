@@ -8,6 +8,7 @@ import android.view.View;
 import com.ai.code.customview.activity.FuzzyActivity;
 import com.ai.code.customview.activity.IndicatorActivity;
 import com.ai.code.customview.activity.PeriscopeActivity;
+import com.ai.code.customview.activity.SlideSelectActivity;
 
 public class MainActivity extends Activity {
     private final String TAG = MainActivity.class.getName();
@@ -38,6 +39,12 @@ public class MainActivity extends Activity {
     public void onIndicator(View view) {
         Intent intent = new Intent();
         intent.setClass(this, IndicatorActivity.class);
+        startActivity(intent);
+    }
+
+    public void onSlideSelectClick(View view) {
+        Intent intent = new Intent();
+        intent.setClass(this, SlideSelectActivity.class);
         startActivity(intent);
     }
 }
