@@ -19,6 +19,12 @@ public class SlideSelectActivity extends AppCompatActivity {
 
         String[] s1 = {"1", "2", "3", "4"};
         slideview2.setString(s1);
+        slideview2.setOnSelectListener(new SlideSelectView.onSelectListener() {
+            @Override
+            public void onSelect(int index) {
+
+            }
+        });
 
         String[] s2 = {"极小", "小", "中", "大", "很大"};
         slideview3.setString(s2);

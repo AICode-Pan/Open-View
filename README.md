@@ -10,3 +10,8 @@
 指示器，用于画廊，导览，开屏广告，viewpager
 <br/>
 ![](http://aicode-pan.oss-cn-beijing.aliyuncs.com/image/19367b44317f7fd34ac84b440d371955.gif)
+
+### SlideSelectView
+滑动选择器
+<br/>
+![](http://aicode-pan.oss-cn-beijing.aliyuncs.com/image/1f979ebe89e5af339a9cfeee1e57ade6.gif)
