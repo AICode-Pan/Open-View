@@ -11,7 +11,7 @@
 <br/>
 [效果展示](https://aicode-pan.oss-cn-beijing.aliyuncs.com/video/1592570074332320.mp4)
 
-### SlideSelectView
+### [SlideSelectView](https://aicode-pan.oss-cn-beijing.aliyuncs.com/video/1592570074324749.mp4)
 滑动选择器
 <br/>
 [效果展示](https://aicode-pan.oss-cn-beijing.aliyuncs.com/video/1592570074324749.mp4)
