@@ -36,24 +36,41 @@
         app:lineColor="@color/white"
         app:lineStrokeWidth="@dimen/dp_2"
         app:textColor="@color/white"
-        app:textSelectColor="@color/colorAccent"
+        app:textSelectColor="@color/colorPrimaryDark"
         app:textTopMargin="@dimen/dp_8"
         app:textSize="@dimen/dp_16" />
 
-    <com.ai.code.customview.view.SlideSelectView
-        android:id="@+id/slideview3"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        app:bigCircleColor="@color/color_eb535e"
-        app:bigCircleRadius="@dimen/dp_10"
-        app:bigCenterColor="@color/color_eb535e"
-        app:bigCenterRadius="@dimen/dp_8"
-        app:circleCount="5"
-        app:lineColor="@color/color_d8d8d8"
-        app:lineStrokeWidth="@dimen/dp_2"
-        app:textColor="@color/color_717171"
-        app:textSelectColor="@color/color_eb535e"
-        app:textTopMargin="@dimen/dp_8"
-        app:textSize="@dimen/dp_16" />
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.ai.code.customview.view.SlideSelectView
+            android:id="@+id/slideview3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:bigCircleColor="@color/color_eb535e"
+            app:bigCircleRadius="@dimen/dp_10"
+            app:bigCenterColor="@color/color_eb535e"
+            app:bigCenterRadius="@dimen/dp_8"
+            app:circleCount="5"
+            app:lineColor="@color/color_d8d8d8"
+            app:lineStrokeWidth="@dimen/dp_2"
+            app:textColor="@color/color_717171"
+            app:textSelectColor="@color/color_eb535e"
+            app:textTopMargin="@dimen/dp_8"
+            app:textSize="@dimen/dp_16" />
+
+        <TextView
+            android:id="@+id/tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_20"
+            android:layout_gravity="center_horizontal"
+            android:text="您选择了中"
+            android:textSize="@dimen/sp_14"
+            android:textColor="@color/black" />
+    </LinearLayout>
 </LinearLayout>
