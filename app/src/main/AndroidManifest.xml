@@ -18,9 +18,10 @@
         </activity>
 
         <activity android:name=".activity.PeriscopeActivity" />
-        <activity android:name=".activity.FuzzyActivity" />
+        <activity android:name=".activity.BlurActivity" />
         <activity android:name=".activity.IndicatorActivity" />
         <activity android:name=".activity.SlideSelectActivity" />
+        <activity android:name=".activity.CommonWindowActivity" />
     </application>
 
 </manifest>

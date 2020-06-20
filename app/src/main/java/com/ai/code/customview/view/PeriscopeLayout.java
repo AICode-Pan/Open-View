@@ -43,7 +43,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-
+/**
+ * Created by AICode-Pan on 18/09/10.
+ */
 public class PeriscopeLayout extends RelativeLayout {
 
     private Interpolator line = new LinearInterpolator();//线性

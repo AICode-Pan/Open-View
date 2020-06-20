@@ -6,12 +6,26 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b74285f5-edfd-4309-a8eb-98ed9740e554" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/CommonWindowActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/BlurView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/FuzzyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/BlurActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/IndicatorView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/IndicatorView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/PeriscopeLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/PeriscopeLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_fuzzy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_blur.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +50,7 @@
       <list>
         <option value="valueResourceFile" />
         <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
         <option value="Class" />
         <option value="layoutResourceFile_vertical" />
       </list>
@@ -49,10 +64,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="vivo-vivo_x20a-26a8dc5f" />
+    <property name="DEBUGGABLE_PROCESS" value="com.ai.code.customview" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="device.picker.selection" value="7XBNW19626001779" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1592571382196" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1578993484263" />
   </component>
   <component name="RecentsManager">
@@ -152,22 +173,58 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1592569730426">
+    <state x="453" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1592617820230">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1592569730426" />
-    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1592569730425">
+    <state x="453" y="110" key="#com.intellij.ide.util.MemberChooser/0.23.1280.728@0.23.1280.728" timestamp="1592617820230" />
+    <state x="503" y="159" key="AndroidProcessChooserDialog" timestamp="1592580238927">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1592569730425" />
-    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1592569730424">
+    <state x="503" y="159" key="AndroidProcessChooserDialog/0.23.1280.728@0.23.1280.728" timestamp="1592580238927" />
+    <state width="1238" height="222" key="GridCell.Tab.0.bottom" timestamp="1592623553095">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1592569730424" />
-    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1592569730425">
+    <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1592623553095" />
+    <state width="1238" height="222" key="GridCell.Tab.0.center" timestamp="1592623553094">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1592569730425" />
+    <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1592623553094" />
+    <state width="1238" height="222" key="GridCell.Tab.0.left" timestamp="1592623553093">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1592623553093" />
+    <state width="1238" height="222" key="GridCell.Tab.0.right" timestamp="1592623553094">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1592623553094" />
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1592614227986">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1592614227986" />
+    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1592614227985">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1592614227985" />
+    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1592614227985">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1592614227985" />
+    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1592614227985">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1592614227985" />
+    <state x="149" y="26" key="SettingsEditor" timestamp="1592618362805">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="149" y="26" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1592618362804" />
+    <state x="100" y="123" width="1080" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592578587449">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="100" y="123" width="1080" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.728@0.23.1280.728" timestamp="1592578587449" />
+    <state x="305" y="75" width="670" height="676" key="search.everywhere.popup" timestamp="1592624492227">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="305" y="75" width="670" height="676" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1592624492227" />
   </component>
   <component name="masterDetails">
     <states>

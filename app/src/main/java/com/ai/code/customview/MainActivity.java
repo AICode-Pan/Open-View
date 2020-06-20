@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.ai.code.customview.activity.FuzzyActivity;
+import com.ai.code.customview.activity.BlurActivity;
 import com.ai.code.customview.activity.IndicatorActivity;
 import com.ai.code.customview.activity.PeriscopeActivity;
 import com.ai.code.customview.activity.SlideSelectActivity;
@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
 
     public void onFuzzyClick(View view) {
         Intent intent = new Intent();
-        intent.setClass(this, FuzzyActivity.class);
+        intent.setClass(this, BlurActivity.class);
         startActivity(intent);
     }
 

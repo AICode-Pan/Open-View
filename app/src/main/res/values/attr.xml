@@ -37,4 +37,11 @@
         <attr name="textSelectColor" format="color" />
         <attr name="textTopMargin" format="dimension" />
     </declare-styleable>
+
+    <declare-styleable name="BlurView">
+        <attr name="circleRadius" format="dimension" />
+        <attr name="downScale" format="float" />
+        <attr name="maskColor" format="color" />
+        <attr name="blurRadius" format="float" />
+    </declare-styleable>
 </resources>
