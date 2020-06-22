@@ -10,6 +10,7 @@ import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.graphics.Path;
 import android.graphics.Rect;
+import android.graphics.RectF;
 import android.renderscript.Allocation;
 import android.renderscript.Element;
 import android.renderscript.RenderScript;
@@ -122,7 +123,7 @@ public class BlurView extends View {
         Path mPath = new Path();
 
         if (mRadius > 0) {
-            mPath.addCircle(getWidth() / 2, getHeight() / 2, mRadius, Path.Direction.CCW);
+            mPath.addRoundRect(new RectF(0, 0, getWidth(), getHeight()) , mRadius, mRadius, Path.Direction.CW);
             canvas.clipPath(mPath);
         }
 
