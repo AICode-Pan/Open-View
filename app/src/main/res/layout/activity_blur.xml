@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.ai.code.customview.view.BlurView
+        android:id="@+id/blurview"
+        android:layout_width="@dimen/dp_150"
+        android:layout_height="@dimen/dp_150"
+        android:layout_gravity="center"
+        app:downScale="0.2"
+        app:circleRadius="@dimen/dp_75"
+        app:blurRadius="5"
+        app:maskColor="@color/color_33ffffff"/>
+</FrameLayout>

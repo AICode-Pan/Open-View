@@ -13,6 +13,7 @@ import com.ai.code.customview.R;
 
 /**
  * 指示器
+ * Created by AICode-Pan on 20/05/10.
  */
 public class IndicatorView extends View {
 
