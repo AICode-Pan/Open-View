@@ -35,13 +35,15 @@ public class BlurView extends View {
     //视图圆角处理
     private float mRadius = 0;
     //为了使效果更接近IOS的效果，最后绘制一个蒙板盖上面。
-    private int maskColor = -1;
+    private int maskColor = 0;
     //模糊程度, 25f是最大模糊度, 越大绘制也越慢。
-    private float mBlurRadius = 5;
+    private float mBlurRadius = 0;
     // 创建RenderScript内核对象
     private RenderScript rs = null;
     // 创建一个模糊效果的RenderScript的工具对象
     private ScriptIntrinsicBlur blurScript = null;
+
+    private int alpha = 255;
 
     public BlurView(Context context) {
         super(context);
@@ -75,12 +77,36 @@ public class BlurView extends View {
         blurScript = ScriptIntrinsicBlur.create(rs, Element.U8_4(rs));
     }
 
+    /**
+     * 设置遮罩颜色
+     * @param color
+     */
+    public void setMaskColor(int color) {
+        this.maskColor = color;
+    }
+
+    /**
+     * 设置模糊程度
+     * @param radius
+     */
+    public void setBlurRadius(int radius) {
+        this.mBlurRadius = radius;
+    }
+
+    public void setAlpha(int alpha) {
+        this.alpha = alpha;
+    }
+
     private void getAttr(Context context, AttributeSet attrs) {
         TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.BlurView);
+        //压缩比例，
         downScaleFactor = typedArray.getFloat(R.styleable.BlurView_downScale, 0.8f);
+        //是否裁剪圆角
         mRadius = typedArray.getDimensionPixelSize(R.styleable.BlurView_circleRadius, 0);
-        maskColor = typedArray.getColor(R.styleable.BlurView_maskColor, -1);
-        mBlurRadius = typedArray.getFloat(R.styleable.BlurView_blurRadius, 5);
+        //背景色
+        maskColor = typedArray.getColor(R.styleable.BlurView_maskColor, 0);
+        //模糊度
+        mBlurRadius = typedArray.getFloat(R.styleable.BlurView_blurRadius, 0);
         typedArray.recycle();
     }
 
@@ -114,7 +140,12 @@ public class BlurView extends View {
 
         lastActionTime = System.currentTimeMillis();
         //获取Bitmap从View
-        setBlurBitmapFromView(getLeft(), getTop(), getRight(), getBottom());
+
+        if (mBlurRadius > 0 && mBlurRadius < 25) {
+            setBlurBitmapFromView(getLeft(), getTop(), getRight(), getBottom());
+        } else {
+            bitmap = null;
+        }
     }
 
     @Override
@@ -122,16 +153,20 @@ public class BlurView extends View {
         super.onDraw(canvas);
         Path mPath = new Path();
 
+        paint.setAlpha(alpha);
+
         if (mRadius > 0) {
             mPath.addRoundRect(new RectF(0, 0, getWidth(), getHeight()) , mRadius, mRadius, Path.Direction.CW);
             canvas.clipPath(mPath);
         }
 
         //绘制
-        canvas.drawBitmap(bitmap, null, new Rect(0, 0, getWidth(), getHeight()), paint);
+        if (bitmap != null) {
+            canvas.drawBitmap(bitmap, null, new Rect(0, 0, getWidth(), getHeight()), paint);
+        }
         printfActionTime("绘制完成");
 
-        if (maskColor > 0) {
+        if (maskColor != 0) {
             canvas.drawColor(maskColor);
         }
     }

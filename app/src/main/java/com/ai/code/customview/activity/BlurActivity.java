@@ -1,5 +1,7 @@
 package com.ai.code.customview.activity;
 
+import android.app.Activity;
+import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -15,14 +17,15 @@ import android.widget.ImageView;
 import com.ai.code.customview.R;
 import com.ai.code.customview.view.BlurView;
 
-public class BlurActivity extends AppCompatActivity {
+public class BlurActivity extends Activity {
     private BlurView blurView;
     private RecyclerView recyclerview;
+    private int totalDy = 0;
+    private int color = Color.parseColor("#FFFFFF");
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setTitle("仿IOS Blur控件");
         setContentView(R.layout.activity_blur);
         recyclerview = findViewById(R.id.recyclerview);
         blurView = findViewById(R.id.blurview);
@@ -32,14 +35,33 @@ public class BlurActivity extends AppCompatActivity {
 
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-            recyclerview.setOnScrollChangeListener(new View.OnScrollChangeListener() {
+            recyclerview.addOnScrollListener(new RecyclerView.OnScrollListener() {
+
                 @Override
-                public void onScrollChange(View v, int scrollX, int scrollY, int oldScrollX, int oldScrollY) {
-                    Log.i("BlurView", "onScrollChange");
+                public void onScrolled(@NonNull RecyclerView recyclerView, int dx, int dy) {
+                    super.onScrolled(recyclerView, dx, dy);
+                    totalDy += dy;
+                    if (totalDy < 3000) {
+                        float i = Float.valueOf(totalDy) / 6000;
+                        int alpha = (int) Math.round(i * 255f);
+                        Log.e("BlurView", "onScrolled i = " + i + " alpha=" + alpha);
+
+                        if (i == 0) {
+                            blurView.setBlurRadius(0);
+                        } else {
+                            blurView.setBlurRadius((int) (i * 5) + 3);
+                        }
+                        blurView.setMaskColor(setAlpha(color, i));
+                    }
+
                     blurView.requestLayout();
                 }
             });
         }
+    }
+
+    public int setAlpha(int color, float alpha) {
+        return color & 0x00FFFFFF | Math.round(0xFF * alpha) << 24;
     }
 
     private class ImageAdapter extends RecyclerView.Adapter<ImageAdapter.ItemViewHolder> {

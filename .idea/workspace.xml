@@ -11,25 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2992c484-351a-4a13-9151-904e953f23dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/BlurActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/BlurView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_blur.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/FuzzyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/CommonWindowActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/SlideSelectActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/SlideSelectActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/IndicatorView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/IndicatorView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/PeriscopeLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/PeriscopeLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_fuzzy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_slide_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_slide_select.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/BlurActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/activity/BlurActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/BlurView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/BlurView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_blur.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_blur.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,18 +80,6 @@
       <recent name="D:\AndroidProject\CustomView\app\src\main\res\mipmap-xxxhdpi" />
       <recent name="D:\AndroidProject\CustomView\app\src\main\java\com\demo\custom\view" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -172,7 +146,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b74285f5-edfd-4309-a8eb-98ed9740e554" name="Default Changelist" comment="" />
+      <changelist id="2992c484-351a-4a13-9151-904e953f23dc" name="Default Changelist" comment="" />
       <created>1578992710632</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -194,45 +168,55 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1592617820230">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state x="680" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1596704054893">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="680" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596704054893" />
     <state x="453" y="110" key="#com.intellij.ide.util.MemberChooser/0.23.1280.728@0.23.1280.728" timestamp="1592617820230" />
-    <state x="503" y="159" key="AndroidProcessChooserDialog" timestamp="1592580238927">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state x="755" y="194" key="AndroidProcessChooserDialog" timestamp="1596704932537">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="755" y="194" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596704932537" />
     <state x="503" y="159" key="AndroidProcessChooserDialog/0.23.1280.728@0.23.1280.728" timestamp="1592580238927" />
-    <state width="1238" height="222" key="GridCell.Tab.0.bottom" timestamp="1592623553095">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="378" key="GridCell.Tab.0.bottom" timestamp="1596706748348">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596706748348" />
     <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1592623553095" />
-    <state width="1238" height="222" key="GridCell.Tab.0.center" timestamp="1592623553094">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="378" key="GridCell.Tab.0.center" timestamp="1596706748348">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="378" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596706748348" />
     <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1592623553094" />
-    <state width="1238" height="222" key="GridCell.Tab.0.left" timestamp="1592623553093">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="378" key="GridCell.Tab.0.left" timestamp="1596706748348">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="378" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596706748348" />
     <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1592623553093" />
-    <state width="1238" height="222" key="GridCell.Tab.0.right" timestamp="1592623553094">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="378" key="GridCell.Tab.0.right" timestamp="1596706748348">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="378" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596706748348" />
     <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1592623553094" />
-    <state width="1238" height="226" key="GridCell.Tab.1.bottom" timestamp="1592614227986">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1596704983230">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596704983230" />
     <state width="1238" height="226" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1592614227986" />
-    <state width="1238" height="226" key="GridCell.Tab.1.center" timestamp="1592614227985">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.center" timestamp="1596704983230">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596704983230" />
     <state width="1238" height="226" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1592614227985" />
-    <state width="1238" height="226" key="GridCell.Tab.1.left" timestamp="1592614227985">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.left" timestamp="1596704983230">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596704983230" />
     <state width="1238" height="226" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1592614227985" />
-    <state width="1238" height="226" key="GridCell.Tab.1.right" timestamp="1592614227985">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.right" timestamp="1596704983230">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1860" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596704983230" />
     <state width="1238" height="226" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1592614227985" />
     <state x="149" y="26" key="SettingsEditor" timestamp="1592618362805">
       <screen x="0" y="23" width="1280" height="728" />
@@ -246,6 +230,22 @@
       <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="305" y="75" width="670" height="676" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1592624492227" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/BlurView.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ai/code/customview/view/BlurView.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
